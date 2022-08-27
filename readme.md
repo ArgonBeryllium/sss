@@ -1,0 +1,2 @@
+# Secretary Stats Solver
+This naive solver for finding optimal solutions for the [Secretary Problem](https://en.wikipedia.org/wiki/Secretary_problem) is just a toy project I made to get to grips with Lua. I realise such a computationally intensive(especially with how unoptimised I left it) program isn't a great fit for an interpreted, high-level scripting language, but I happened to learn about optimal stopping theory within the same week I decided to pick up the language -- it's definitely more of an exercise than an actual tool intended for serious use.
